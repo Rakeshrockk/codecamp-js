@@ -1,0 +1,14 @@
+button {
+  border: none;
+  color: white;
+  background-color: red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  margin-left: 15rem;
+  margin-bottom: 10rem;
+}
+.h1 {
+  padding-left: 5rem;
+}
